@@ -264,9 +264,9 @@ Retail_Supply_Chain_Analytics/
 │
 ├── Documentation/
 │   ├── RETAIL SUPPLY CHAIN.docx
-│   ├── Retail_Supply_Chain_Diagram.docx
+│   ├── Retail_Supply_Chain_documentation.docx
 │   ├── ER_Diagram.png
-│   └── Retail_Supply_Chain_Diagram.mwb
+│   └── Retail_Supply_Chain_ER_Diagram.mwb
 │
 ├── Presentation/
 │   └── retail supply chain analytics.pptx
